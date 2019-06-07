@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.fas {
+    font-size: 22px;
+}
+
+.card-header {
+    background: #d3d0f8;
+    font-size: 22px;
+}
+
+.page-footer {
+    background: #ffffff;
+    color: rgb(32, 32, 32);
+    font-size: 12px;
+}
+
+.footer-image {
+    height: 40px;
+    width: 40px;
+    overflow: hidden;
+    vertical-align: middle;
+    border-radius: 50%;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    border: 1px solid transparent;
+    margin: -1px;
+}
