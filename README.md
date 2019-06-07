@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ying-li-python/BIOdash/master/Images/biodash.png">
+<img src="https://raw.githubusercontent.com/ying-li-python/BIOdash/master/Images/biodash_m.png">
 
 ## BIOdash
 
